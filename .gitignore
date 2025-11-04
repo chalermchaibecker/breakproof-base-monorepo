@@ -7,3 +7,4 @@ build/
 .DS_Store
 dist/
 .pytest_cache/
+coverage/
