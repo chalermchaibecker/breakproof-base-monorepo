@@ -1,6 +1,6 @@
 {
   "name": "breakproof-base-monorepo",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "\ud83d\udcc4 A pnpm monorepo template where each tool lives in its own package, runs its own version of Node.js and provides strict default config to be used by your projects and the built-in optimized CI/CD \ud83d\udd00 Clone to create your own monorepo! \ud83d\udd04 Pull to update the tools!",
   "main": "src/index.ts",
   "scripts": {
